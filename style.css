@@ -2,3 +2,28 @@
   border: 1px solid black;
   min-height: 50px;
 }
+.calc {
+  font-family: "calculator";
+  color: greenyellow;
+}
+@font-face{
+  font-family: "calculator";
+    src: url(calculator.ttf) format("truetype");
+}
+body {
+  font-family: "calculator";
+  background-color: beige;
+}
+.calcbody {
+  background-color: #d8d8d8;
+}
+.opp {
+  color: #ffffff;
+  background-color: #999999;
+}
+.num{
+  background-color: #ffffff;
+}
+.bot {
+  padding-bottom: 10px;
+}
