@@ -1,12 +1,4 @@
-.box {
-  height: 200px;
-}
-.middle {
-  height: 200px;
-  border-bottom: 2px solid black;
-  border-top: 2px solid black;
-}
-.center{
-  border-left: 2px solid black;
-  border-right: 2px solid black;
+.test {
+  border: 1px solid black;
+  min-height: 50px;
 }
